@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+pandas
+python-docx
+python-pptx
+PyPDF2
